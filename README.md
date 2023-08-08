@@ -52,7 +52,7 @@ Welcome to the development repository for CalculatorPlus, a Python application t
     <details>
     <summary>For Example</summary>
 
-    ![Image Alt Text](/Images/2.PNG)
+    ![Image Alt Text](/Images/2.png)
 
     </details>
 3. Implement the square root feature in the Calculator class as specified in the assignment.
