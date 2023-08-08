@@ -102,7 +102,7 @@ To create a new release of CalculatorPlus :
     <details>
     <summary>For Example</summary>
 
-    ![Image Alt Text](/Images/60.png)
+    ![Image Alt Text](/Images/60.PNG)
     ![Image Alt Text](/Images/12.PNG)
 
     </details>
